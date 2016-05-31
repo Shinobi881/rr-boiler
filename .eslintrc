@@ -1,0 +1,24 @@
+{
+  "extends": "airbnb-base", "semistandard",
+  "rules": {
+    "no-unused-vars": [0],
+    "prefer-const": [0],
+    "global-require": [0],
+    "comma-dangle": [0],
+    "no-console": [0],
+    "no-case-declarations": [0],
+    "arrow-body-style": [0],
+    "array-callback-return": [0],
+    "consistent-return": [0],
+    "no-useless-constructor": [0]
+  },
+  "plugins": [
+      "react"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  }
+
+}
