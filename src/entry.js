@@ -1,1 +1,2 @@
-document.write('this works')
+import { test } from './index';
+document.write(test());
