@@ -8,11 +8,13 @@ const compiler = webpack(config);
 const webpackMiddleware = (server) => {
   server.use(devMiddleware(compiler, {
     hot: true,
-    historyApiFallback: true,
+    filename: 'bundle.js',
+    publicPath: config.output.publicPath,
     stats: {
       colors: true,
       progress: true
-    }
+    },
+    historyApiFallback: true
   }));
 
   server.use(hotMiddleware(compiler, {
