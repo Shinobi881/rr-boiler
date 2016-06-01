@@ -1,404 +1,454 @@
-{
-  "jobs": [
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 11909,
-      "height": 209,
-      "width": 2,
-      "price": "$45828"
+{  
+  "jobs":[  
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":26723,
+      "height":125,
+      "width":187,
+      "price":"$10457",
+      "built":1902
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 50831,
-      "height": 370,
-      "width": 441,
-      "price": "$49086"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":56200,
+      "height":136,
+      "width":405,
+      "price":"$44565",
+      "built":1984
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 19946,
-      "height": 457,
-      "width": 40,
-      "price": "$25763"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":13445,
+      "height":200,
+      "width":99,
+      "price":"$38535",
+      "built":1910
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 41854,
-      "height": 131,
-      "width": 479,
-      "price": "$28791"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":19840,
+      "height":285,
+      "width":16,
+      "price":"$36425",
+      "built":1983
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 17675,
-      "height": 312,
-      "width": 116,
-      "price": "$53700"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":57825,
+      "height":431,
+      "width":11,
+      "price":"$35509",
+      "built":1973
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 10303,
-      "height": 79,
-      "width": 141,
-      "price": "$15545"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":36252,
+      "height":48,
+      "width":67,
+      "price":"$29675",
+      "built":1982
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 10599,
-      "height": 150,
-      "width": 286,
-      "price": "$38872"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":28631,
+      "height":45,
+      "width":379,
+      "price":"$10563",
+      "built":1996
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 37366,
-      "height": 48,
-      "width": 447,
-      "price": "$14959"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":33719,
+      "height":454,
+      "width":365,
+      "price":"$31248",
+      "built":1941
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 29394,
-      "height": 109,
-      "width": 492,
-      "price": "$43235"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":17775,
+      "height":299,
+      "width":167,
+      "price":"$30369",
+      "built":1914
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 44244,
-      "height": 96,
-      "width": 2,
-      "price": "$18075"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":11906,
+      "height":144,
+      "width":439,
+      "price":"$39994",
+      "built":1928
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 43707,
-      "height": 326,
-      "width": 250,
-      "price": "$12188"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":34321,
+      "height":79,
+      "width":119,
+      "price":"$14769",
+      "built":1940
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 28549,
-      "height": 496,
-      "width": 20,
-      "price": "$14439"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":18585,
+      "height":103,
+      "width":347,
+      "price":"$11230",
+      "built":1999
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 42487,
-      "height": 49,
-      "width": 309,
-      "price": "$58732"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":17307,
+      "height":493,
+      "width":343,
+      "price":"$42222",
+      "built":1997
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 38558,
-      "height": 454,
-      "width": 140,
-      "price": "$47543"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":38726,
+      "height":451,
+      "width":196,
+      "price":"$20659",
+      "built":1982
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 53940,
-      "height": 216,
-      "width": 309,
-      "price": "$16258"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":33442,
+      "height":40,
+      "width":174,
+      "price":"$14541",
+      "built":1997
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 36853,
-      "height": 366,
-      "width": 338,
-      "price": "$10472"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":38787,
+      "height":215,
+      "width":187,
+      "price":"$55277",
+      "built":1956
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 41287,
-      "height": 343,
-      "width": 330,
-      "price": "$49628"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":45766,
+      "height":205,
+      "width":158,
+      "price":"$37520",
+      "built":1903
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 57483,
-      "height": 294,
-      "width": 184,
-      "price": "$19715"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":46672,
+      "height":335,
+      "width":334,
+      "price":"$14502",
+      "built":1912
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 25868,
-      "height": 145,
-      "width": 251,
-      "price": "$11706"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":35300,
+      "height":170,
+      "width":53,
+      "price":"$11284",
+      "built":1918
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 21725,
-      "height": 45,
-      "width": 33,
-      "price": "$21383"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":52037,
+      "height":436,
+      "width":376,
+      "price":"$22985",
+      "built":1988
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 13046,
-      "height": 120,
-      "width": 434,
-      "price": "$22828"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":28681,
+      "height":270,
+      "width":228,
+      "price":"$28700",
+      "built":1989
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 48401,
-      "height": 165,
-      "width": 28,
-      "price": "$42602"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":41009,
+      "height":320,
+      "width":115,
+      "price":"$20029",
+      "built":1960
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 30393,
-      "height": 405,
-      "width": 465,
-      "price": "$54782"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":37153,
+      "height":390,
+      "width":141,
+      "price":"$54784",
+      "built":1973
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 50598,
-      "height": 243,
-      "width": 86,
-      "price": "$26362"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":11253,
+      "height":242,
+      "width":226,
+      "price":"$47149",
+      "built":1952
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 55713,
-      "height": 187,
-      "width": 18,
-      "price": "$51150"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":35801,
+      "height":426,
+      "width":367,
+      "price":"$12580",
+      "built":1918
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 35730,
-      "height": 251,
-      "width": 380,
-      "price": "$19495"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":58531,
+      "height":147,
+      "width":465,
+      "price":"$47001",
+      "built":1928
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 17755,
-      "height": 167,
-      "width": 116,
-      "price": "$59540"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":42205,
+      "height":489,
+      "width":11,
+      "price":"$37145",
+      "built":1952
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 26320,
-      "height": 401,
-      "width": 250,
-      "price": "$33601"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":30304,
+      "height":301,
+      "width":197,
+      "price":"$39827",
+      "built":1913
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 24809,
-      "height": 289,
-      "width": 87,
-      "price": "$17919"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":33154,
+      "height":216,
+      "width":127,
+      "price":"$26970",
+      "built":1919
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 45138,
-      "height": 279,
-      "width": 167,
-      "price": "$27673"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":18395,
+      "height":154,
+      "width":219,
+      "price":"$33766",
+      "built":1998
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 18998,
-      "height": 173,
-      "width": 15,
-      "price": "$41671"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":46002,
+      "height":133,
+      "width":378,
+      "price":"$57239",
+      "built":1961
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 34225,
-      "height": 197,
-      "width": 382,
-      "price": "$49960"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":52899,
+      "height":297,
+      "width":465,
+      "price":"$35081",
+      "built":1989
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 33180,
-      "height": 321,
-      "width": 405,
-      "price": "$27728"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":13068,
+      "height":270,
+      "width":272,
+      "price":"$15693",
+      "built":1947
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 50489,
-      "height": 64,
-      "width": 351,
-      "price": "$47571"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":38435,
+      "height":448,
+      "width":24,
+      "price":"$18851",
+      "built":1968
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 19594,
-      "height": 175,
-      "width": 40,
-      "price": "$58718"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":19461,
+      "height":430,
+      "width":208,
+      "price":"$30169",
+      "built":1934
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 21561,
-      "height": 388,
-      "width": 178,
-      "price": "$36528"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":47127,
+      "height":194,
+      "width":365,
+      "price":"$41491",
+      "built":1992
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 59313,
-      "height": 277,
-      "width": 225,
-      "price": "$55368"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":17142,
+      "height":302,
+      "width":423,
+      "price":"$16662",
+      "built":1971
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 16614,
-      "height": 150,
-      "width": 247,
-      "price": "$54824"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":15632,
+      "height":52,
+      "width":325,
+      "price":"$20801",
+      "built":1969
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 27952,
-      "height": 126,
-      "width": 452,
-      "price": "$34382"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":51223,
+      "height":287,
+      "width":250,
+      "price":"$57568",
+      "built":1998
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 47564,
-      "height": 266,
-      "width": 368,
-      "price": "$40876"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":20773,
+      "height":36,
+      "width":438,
+      "price":"$14399",
+      "built":1933
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 31707,
-      "height": 324,
-      "width": 30,
-      "price": "$19656"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":54736,
+      "height":32,
+      "width":477,
+      "price":"$55429",
+      "built":1997
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 23171,
-      "height": 74,
-      "width": 308,
-      "price": "$36405"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":50929,
+      "height":111,
+      "width":3,
+      "price":"$40186",
+      "built":1926
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 21101,
-      "height": 46,
-      "width": 359,
-      "price": "$27042"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":10538,
+      "height":153,
+      "width":37,
+      "price":"$38667",
+      "built":1958
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 30707,
-      "height": 359,
-      "width": 66,
-      "price": "$11927"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":20193,
+      "height":405,
+      "width":398,
+      "price":"$32012",
+      "built":1936
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 46034,
-      "height": 277,
-      "width": 82,
-      "price": "$20485"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":23187,
+      "height":121,
+      "width":470,
+      "price":"$57286",
+      "built":1920
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 39574,
-      "height": 197,
-      "width": 61,
-      "price": "$35078"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":12641,
+      "height":323,
+      "width":119,
+      "price":"$54074",
+      "built":1934
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 18930,
-      "height": 337,
-      "width": 28,
-      "price": "$15410"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":27018,
+      "height":228,
+      "width":227,
+      "price":"$46000",
+      "built":1944
     },
-    {
-      "job": "roof",
-      "type": "replace",
-      "zip": 36889,
-      "height": 401,
-      "width": 496,
-      "price": "$12001"
+    {  
+      "job":"roof",
+      "type":"solar",
+      "zip":10973,
+      "height":332,
+      "width":422,
+      "price":"$38256",
+      "built":1981
     },
-    {
-      "job": "roof",
-      "type": "solar",
-      "zip": 18569,
-      "height": 357,
-      "width": 477,
-      "price": "$49077"
+    {  
+      "job":"roof",
+      "type":"repair",
+      "zip":27521,
+      "height":283,
+      "width":356,
+      "price":"$41890",
+      "built":1912
     },
-    {
-      "job": "roof",
-      "type": "repair",
-      "zip": 40452,
-      "height": 385,
-      "width": 436,
-      "price": "$20690"
+    {  
+      "job":"roof",
+      "type":"replace",
+      "zip":39050,
+      "height":131,
+      "width":420,
+      "price":"$40244",
+      "built":1981
     }
   ]
 }

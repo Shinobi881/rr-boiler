@@ -13,6 +13,10 @@ const sizePicker = () => {
   return Math.floor(Math.random() * (500 - 0)) + 0;
 }
 
+const yearPicker = () => {
+  return Math.floor(Math.random() * (2000 - 1900)) + 1900;
+}
+
 const generator = () => {
   const obj = {
     job: 'roof',
@@ -20,7 +24,8 @@ const generator = () => {
     zip: zip(),
     height: sizePicker(),
     width: sizePicker(),
-    price: '$' + zip()
+    price: '$' + zip(),
+    built: yearPicker()
   }
 
   return obj;

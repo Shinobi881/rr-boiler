@@ -2,5 +2,15 @@
 @import 'containers/all';
 
 #app {
-  background-color: red; 
+
+}
+
+.app-card {
+  background-color: red;
+  border-top: '5px solid #f2f2f2';
+  border-bottom: '5px solid #f2f2f2';
+}
+
+.title {
+  color: green;
 }
