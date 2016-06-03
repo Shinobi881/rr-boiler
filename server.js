@@ -1,5 +1,6 @@
 const express = require('express');
 const http = require('http');
+const cors = require('cors');
 const axios = require('axios');
 const path = require('path');
 const bodyParser = require('body-parser');
@@ -14,18 +15,19 @@ const port = production ? process.env.PORT : 3001;
 app.use(express.static(publicPath));
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json());
+app.use(cors());
 
 if (!production) {
   webpackMiddleware(app);
 }
 
 app.get('/jobs' ,(req, res) => {
-  // axios.get('http://localhost:3000/jobs')
-  //   .then((data) => {
-  //     console.log(data)
-  //     res.json(data);
-  //   });
-  res.send(jobsData);
+  axios.get('http://localhost:3000/jobs')
+    .then((data) => {
+      console.log(data.data);
+      res.send(data.data);
+    });
+  // res.send(jobsData);
 });
 
 app.listen(port, () => {

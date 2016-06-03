@@ -8,6 +8,8 @@ const compiler = webpack(config);
 const webpackMiddleware = (server) => {
   server.use(devMiddleware(compiler, {
     hot: true,
+    quiet: true,
+    noInfo: true,
     filename: 'bundle.js',
     publicPath: config.output.publicPath,
     stats: {

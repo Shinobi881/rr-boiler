@@ -2,5 +2,19 @@
 
 ##Installation 
 1. `$ npm i`
-2. `$ npm run dev`
-3. Open browser to: `localhost:3001`
+
+*Development:*
+
+2. `$ npm run fake-server` - Will run a mock server for job data 
+3. `$ npm run dev`
+
+*Production:*
+
+4. `$ npm run prod`
+
+5. Open browser to: `localhost:3001`
+5. Navigate to: `localhost:3001/jobs` to get job data
+
+
+##Documentation
+- Contributing: (contribution guide)[contributing.md]
